@@ -1,0 +1,19 @@
+<ion-view>
+  <ion-header-bar class="bar-stable">
+    <h1 class="title">Tropa Trips</h1>
+  </ion-header-bar>
+  <ion-content>
+    <div ng-repeat="place in data" class="list card">
+      <div class="item item-image">
+        <a href="/#/places/1">
+          <img ng-src="{{place.image}}" ng-click="viewPlace(place)">
+        </a>
+      </div>
+
+      <a class="item item-icon-left assertive" href="#">
+        {{place.description}}
+      </a>
+
+    </div>
+  </ion-content>
+</ion-view>
