@@ -1,35 +1,33 @@
-//Places
-
 [
 {
-    Name: "Batanes",
-    Description: "Yes! Batanes is on top of my list and should be on top of your own bucket lists too. The place is really magical, awesome, special and *insert ultramegasuperlative word here*. With its beautiful rolling hills, towering lighthouses, picturesque coasts, hidden coves of white sand beaches, unique culture, cool weather and amazing people, Batanes truly beckons. Make sure to make it to Batanes this year, you won't regret it!",
-    Image: "http://www.lakwatsero.com/wp-content/uploads/2014/01/Batanes.jpg",
-    PlacesToVisit: [{Name: "Place1", Description: "Desc 1"}, {Name: "Place2", Description: "Desc 2"}],
-    Budget: "24,000 - 30,000"
+    "name": "Batanes",
+    "description": "Yes! Batanes is on top of my list and should be on top of your own bucket lists too. The place is really magical, awesome, special and *insert ultramegasuperlative word here*. With its beautiful rolling hills, towering lighthouses, picturesque coasts, hidden coves of white sand beaches, unique culture, cool weather and amazing people, Batanes truly beckons. Make sure to make it to Batanes this year, you won't regret it!",
+    "image": "http://www.lakwatsero.com/wp-content/uploads/2014/01/Batanes.jpg",
+    "placesToVisit": [{"name": "Place1", "description": "Desc 1"}, {"name": "Place2", "description": "Desc 2"}],
+    "budget": "24,000 - 30,000"
 },{
-    Name: "Palaui Island",
-    Description: "Is a protected landscape and seascape in the northeastern-most part of Cagayan Valley, an island characterized by rugged terrain, rolling hills, scenic coves and beaches, hidden waterfalls and a whole lot more! From being a mysterious secret paradise, Palaui Island today is in international spotlight. No thanks to Survivor USA for exposing this beautiful place to the world. So before the crowd flocks to Palaui Island (I hope not), make sure to visit it.",
-    Image: "http://www.lakwatsero.com/destinations/travel-guide-palaui-island/",
-    PlacesToVisit: [{Name: "Place1", Description: "Desc 1"}, {Name: "Place2", Description: "Desc 2"}],
-    Budget: "30,000 - 40,000"
+    "name": "Palaui Island",
+    "description": "Is a protected landscape and seascape in the northeastern-most part of Cagayan Valley, an island characterized by rugged terrain, rolling hills, scenic coves and beaches, hidden waterfalls and a whole lot more! From being a mysterious secret paradise, Palaui Island today is in international spotlight. No thanks to Survivor USA for exposing this beautiful place to the world. So before the crowd flocks to Palaui Island (I hope not), make sure to visit it.",
+    "image": "http://www.lakwatsero.com/wp-content/uploads/2012/03/stillsg.jpg  ",
+    "placesToVisit": [{"name": "Place1", "description": "Desc 1"}, {"name": "Place2", "description": "Desc 2"}],
+    "budget": "30,000 - 40,000"
 },{
-    Name: "Kalinga",
-    Description: "An off-beat travel destination that offers experience beyond what you expect. Go white water rafting in Pasil, get a tattoo from Whang-od in Buscalan, bike the trails of Tinglayan, discover the charm of Balbalasang or enjoy the rice terraces and scenic landscape of the other towns in the province. A whole new Cordillera experience awaits in Kalinga!",
-    Image: "http://www.lakwatsero.com/tag/kalinga/",
-    PlacesToVisit: [{Name: "Place1", Description: "Desc 1"}, {Name: "Place2", Description: "Desc 2"}],
-    Budget: "30,000 - 45,000"
+    "name": "Kalinga",
+    "description": "An off-beat travel destination that offers experience beyond what you expect. Go white water rafting in Pasil, get a tattoo from Whang-od in Buscalan, bike the trails of Tinglayan, discover the charm of Balbalasang or enjoy the rice terraces and scenic landscape of the other towns in the province. A whole new Cordillera experience awaits in Kalinga!",
+    "image": "http://www.lakwatsero.com/wp-content/uploads/2012/02/battle3.jpg ",
+    "placesToVisit": [{"name": "Place1", "description": "Desc 1"}, {"name": "Place2", "description": "Desc 2"}],
+    "budget": "30,000 - 45,000"
 },{
-    Name: "Coron",
-    Description: "is one of the places that suffered the brunt of Super Typhoon Haiyan in December of 2013. But despite the damages the typhoon brought, the natural beauty of the place is still intact and always ready to awe everyone. Put Coron in your bucket list, see the picturesque islands and beaches",
-    Image: "http://www.lakwatsero.com/destinations/coron/",
-    PlacesToVisit: [{Name: "Place1", Description: "Desc 1"}, {Name: "Place2", Description: "Desc 2"}],
-    Budget: "30,000 - 45,000"
+    "name": "Coron",
+    "description": "is one of the places that suffered the brunt of Super Typhoon Haiyan in December of 2013. But despite the damages the typhoon brought, the natural beauty of the place is still intact and always ready to awe everyone. Put Coron in your bucket list, see the picturesque islands and beaches",
+    "image": "http://www.lakwatsero.com/wp-content/uploads/2011/04/El-Nido3.jpg ",
+    "placesToVisit": [{"name": "Place1", "description": "Desc 1"}, {"name": "Place2", "description": "Desc 2"}],
+    "budget": "30,000 - 45,000"
 },{
-    Name: "El Nido",
-    Description: "ipristine scenes await. With 45 island and islets that harbor some of the country&#8217;s best white sand beaches, picturesque cliffs, hidden lagoons, stunning sunset, vivid marine life and other inland attractions, El Nido is the place to be! See it now before the crowd finds it way here and enjoy the serenity, natural beauty and the paradise that is El Nido.",
-    Image: "http://www.lakwatsero.com/destinations/travel-guide-el-nido/",
-    PlacesToVisit: [{Name: "Place1", Description: "Desc 1"}, {Name: "Place2", Description: "Desc 2"}],
-    Budget: "25,000 - 45,000"
+    "name": "El Nido",
+    "description": "ipristine scenes await. With 45 island and islets that harbor some of the country&#8217;s best white sand beaches, picturesque cliffs, hidden lagoons, stunning sunset, vivid marine life and other inland attractions, El Nido is the place to be! See it now before the crowd finds it way here and enjoy the serenity, natural beauty and the paradise that is El Nido.",
+    "image": "http://www.lakwatsero.com/wp-content/uploads/2013/09/palo2.jpg ",
+    "placesToVisit": [{"name": "Place1", "description": "Desc 1"}, {"name": "Place2", "description": "Desc 2"}],
+    "budget": "25,000 - 45,000"
 }
 ]
