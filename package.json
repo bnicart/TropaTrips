@@ -20,6 +20,10 @@
     "com.ionic.keyboard"
   ],
   "cordovaPlatforms": [
+<<<<<<< Updated upstream
     "android"
+=======
+    "ios"
+>>>>>>> Stashed changes
   ]
 }
